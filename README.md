@@ -20,7 +20,8 @@ https://goo.gl/W82YVN
 https://goo.gl/AXKamw
 
 **Software**  
-[Processing] (https://processing.org/)  
+[Sublime Text] (https://www.sublimetext.com/)
+[Vistual Studio] (https://beta.visualstudio.com/visual-studio-community-vs/)  
 [GitHub] (https://github.com/)  
 [GitHub Desktop] (https://desktop.github.com/)  
 
