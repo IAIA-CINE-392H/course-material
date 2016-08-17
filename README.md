@@ -3,8 +3,8 @@
 3 Credit Hours  
 
 **Institute of American Indian Arts**  
-Fab Lab – Academic Building 
-Tuesday & Thursday 2:30p - 5p  
+Fab Lab – Academic Building  
+Tuesday & Thursday 2:30p - 5p   
 Fall 2016  
 
 **Instructor**    
