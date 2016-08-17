@@ -22,7 +22,7 @@ https://goo.gl/AXKamw
 **Software**  
 [GitHub] (https://github.com/)  
 [GitHub Desktop] (https://desktop.github.com/)  
-[Vistual Studio Community 2105] (https://beta.visualstudio.com/visual-studio-community-vs/)  
+[Vistual Studio Community 2105] (https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx)  
 [Sublime Text 3] (https://www.sublimetext.com/)  
 
 **Cheat Sheets**  
