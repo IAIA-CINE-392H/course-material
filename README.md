@@ -1,5 +1,5 @@
 # IAIA-CINE-392H
-**Interactive Cinema (Arts) and Programming**  
+**Interactive Cinema (Art) and Programming**  
 3 Credit Hours  
 
 **Institute of American Indian Arts**  
