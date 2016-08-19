@@ -32,5 +32,5 @@ https://goo.gl/AXKamw
 [GitHub Desktop Commit and Sync] (https://goo.gl/I6p9Ml)  
 
 **Class**  
-[08/16/2016](class/2016-08-16.md)    
-
+[08/16/2016](class/2016-08-16.md)      
+[08/16/2016](class/2016-08-18.md)
