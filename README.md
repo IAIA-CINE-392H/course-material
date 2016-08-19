@@ -27,7 +27,9 @@ https://goo.gl/AXKamw
 [Sublime Text 3] (https://www.sublimetext.com/)  
 
 **Cheat Sheets**  
- 
+[Windows Command Prompt]
+(http://simplyadvanced.net/blog/cheat-sheet-for-windows-command-prompt/)
+
 **Tutorials**  
 [GitHub Desktop Setup] (https://goo.gl/E78LlZ)  
 [GitHub Desktop Commit and Sync] (https://goo.gl/I6p9Ml)  
