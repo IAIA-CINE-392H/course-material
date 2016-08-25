@@ -8,7 +8,6 @@ using namespace std;
 int age = 0;
 
 int main() {
-
 	// declare a boolean variable
 	bool running = true;	
 
