@@ -14,14 +14,14 @@ int main() {
 
 	// create a loop
 	while (running) {
-		std::cout << "Enter your age: ";
-		std::cin >> age;
+		cout << "Enter your age: ";
+		cin >> age;
 
 		if (age < 14) {
-			std::cout << "\nSorry, you are not old enough.\n" << std::endl;
+			cout << "\nSorry, you are not old enough.\n" << endl;
 		}
 		else {
-			std::cout << "\nEnjoy the exhibit!\n" << std::endl;
+			cout << "\nEnjoy the exhibit!\n" << endl;
 			running = false; // this will cause the program to exit
 		}
 		
