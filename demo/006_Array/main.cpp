@@ -13,9 +13,9 @@ int main() {
 	float numbers[3];
 
 	// assign a value to items in the array
-	numbers[0] = 44.33f;	// assign the first index the value of 44.3 (need to use 'f' for float values)
-	numbers[1] = 33.1f;		// assign the second index
-	numbers[2] = 44.4f;		// assign the third index
+	numbers[0] = 44.33f;	// assign the first item the value of 44.3 (need to use 'f' for float values)
+	numbers[1] = 33.1f;		// assign the second item
+	numbers[2] = 44.4f;		// assign the third item
 	
 	// retrieve the value from items in the array
 	numbers[0]; 			// get the value of the first item
