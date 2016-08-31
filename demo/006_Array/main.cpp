@@ -12,12 +12,12 @@ int main() {
 	// declare a float array with a length of three
 	float numbers[3];
 
-	// assign values to items in the array
+	// assign a value to items in the array
 	numbers[0] = 44.33f;	// assign the first index the value of 44.3 (need to use 'f' for float values)
 	numbers[1] = 33.1f;		// assign the second index
 	numbers[2] = 44.4f;		// assign the third index
 	
-	// retrieve the value of the items in the array
+	// retrieve the value from items in the array
 	numbers[0]; 			// get the value of the first item
 	numbers[1]; 			// get the value of the second item 
 	numbers[2]; 			// get the value of the third item 
@@ -49,7 +49,7 @@ int main() {
 	// declare a string array with a length of six
 	string animals[3][2]; // the total length of the array is 3 * 2 = 6 
 
-	// assign values to items in the array
+	// assign a value to items in the array
 	animals[0][0] = "cat";
 	animals[0][1] = "dog";
 	animals[1][0] = "rabbit";
@@ -57,7 +57,7 @@ int main() {
 	animals[2][0] = "donkey";
 	animals[2][1] = "bird";
 
-	// retrieve the value of an item in the array
+	// retrieve the value from items in the array
 	animals[0][0]; 			// get the value of the first item
 
 	cout << "\nfirst animal in the list:" << endl;
