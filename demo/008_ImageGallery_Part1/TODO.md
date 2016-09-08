@@ -4,8 +4,8 @@
 
 ~~arrow button graphics~~  
 
-list of image files  
-arrow button interactivity (functionality)  
+~~list of image files~~  
+~~arrow button interactivity (functionality)~~    
 
 information text  
 information text white background  
