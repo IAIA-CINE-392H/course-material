@@ -22,7 +22,7 @@ class ofApp : public ofBaseApp{
 		// video player hit test array
 		ofRectangle rectangle[NUMBER_OF_VIDEOS];
 
-		// set vido pause state, overrides mouse behaivor
+		// set video pause state, overrides mouse behaivor
 		bool pause = false;
 
 		// openFrameworks template
