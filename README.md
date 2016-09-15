@@ -34,6 +34,10 @@ https://goo.gl/AXKamw
 [GitHub Desktop Setup](https://goo.gl/E78LlZ)  
 [GitHub Desktop Commit and Sync](https://goo.gl/I6p9Ml)  
 
+###Typing
+[Typing Instructor Platinum (Mac)](https://itunes.apple.com/us/app/typing-instructor-platinum/id529553526?mt=12)  
+[Typing Instructor Platinum (Windows)](https://www.amazon.com/Individual-Software-8037781-Instructor-Platinum/dp/B001UHMVKO)  
+
 **Class**  
 [08/16/2016](class/2016-08-16.md)      
 [08/18/2016](class/2016-08-18.md)  
@@ -43,3 +47,4 @@ https://goo.gl/AXKamw
 [09/01/2016](class/2016-09-01.md)  
 [09/06/2016](class/2016-09-06.md)  
 [09/08/2016](class/2016-09-08.md)
+[09/13/2016](class/2016-09-13.md)
