@@ -35,7 +35,7 @@ https://goo.gl/AXKamw
 [GitHub Desktop Setup](https://goo.gl/E78LlZ)  
 [GitHub Desktop Commit and Sync](https://goo.gl/I6p9Ml)  
 
-**Typing**
+**Typing**  
 [Typing Instructor Platinum (Mac)](https://itunes.apple.com/us/app/typing-instructor-platinum/id529553526?mt=12)  
 [Typing Instructor Platinum (Windows)](https://www.amazon.com/Individual-Software-8037781-Instructor-Platinum/dp/B001UHMVKO)  
 
