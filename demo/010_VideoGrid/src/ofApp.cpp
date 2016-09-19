@@ -4,8 +4,15 @@
 void ofApp::setup(){
 
 	for (int i = 0; i < NUMBER_OF_VIDEOS; i++) {
-		video[i].load("97250.mp4");
-		video[i].setPosition(ofRandom(1.0));
+		video[i].load("6407_HM_Lodi_Ohio_01_40_03_00.mp4");
+		
+		// set position is not working in OSX
+		// video[i].setPosition(ofRandom(1.0));
+
+		// we can use frames instead
+		int frames = video[i].getTotalNumFrames();
+		int randomFrame = ofRandom(frames);
+		video[i].setFrame(randomFrame);
 		video[i].play();
 	}
 	
@@ -30,8 +37,8 @@ void ofApp::draw(){
 
 			int i = x * ROWS + y;
 
-			int w = video[i].getWidth() * videoScale;
-			int h = video[i].getHeight() * videoScale;
+			int w = video[i].getWidth() * VIDEO_SCALE;
+			int h = video[i].getHeight() * VIDEO_SCALE;
 
 			rectangle[i].set(x*w, y*h, w, h);
 			video[i].draw(x*w, y*h, w, h);
@@ -45,7 +52,7 @@ void ofApp::draw(){
 void ofApp::keyPressed(int key){
 
 	if (key == 32){
-		paused = !paused;
+		pause = !pause;
 	}
 	
 }
@@ -59,7 +66,7 @@ void ofApp::keyReleased(int key){
 void ofApp::mouseMoved(int x, int y ){
 
 	// mouse only active if currently not paused by space bar
-	if (paused == false){
+	if (pause == false){
 
 		// pause the video when mouse hovers over it 
 		ofPoint mousePoint(x, y);
