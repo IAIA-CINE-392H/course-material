@@ -30,7 +30,7 @@ void ofApp::update(){
 	index++;
 
 	// keep frame buffer inbounds
-	if (index >= cnt) {
+	if (index > cnt) {
 		index = 0;
 	}
 
@@ -45,8 +45,8 @@ void ofApp::draw(){
 	// draw the camera frame directly
 	//camera.draw(0, 0, 1920, 1080);
 
-	// draw the frame buffer, up to the "cnt" value
-	for (int i = 0; i < cnt; i++) {
+	// draw the frame buffer, up to and including the "cnt" value
+	for (int i = 0; i <= cnt; i++) {
 		// set the alpha channel before drawing the frame
 		ofSetColor(255, alpha);
 		image[i].draw(0, 0, ofGetWidth(), ofGetHeight());
