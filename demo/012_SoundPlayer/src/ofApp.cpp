@@ -69,7 +69,7 @@ void ofApp::mouseDragged(int x, int y, int button){
 
 //--------------------------------------------------------------
 void ofApp::dragEvent(ofDragInfo dragInfo){ 
-	// draw a sound file into the program's windows to load and play
+	// drag a sound file into the program's windows to load and play
 	string file = dragInfo.files[0];
 	sound.load(file);
 	sound.play();
