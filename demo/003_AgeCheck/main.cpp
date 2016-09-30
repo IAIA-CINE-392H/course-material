@@ -4,7 +4,7 @@
 
 using namespace std;
 
- // declare an integer variable name age
+ // declare an integer variable named age
 int age = 0;
 
 int main() {
