@@ -26,7 +26,7 @@ https://goo.gl/AXKamw
 [Xcode (Mac)](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)  
 [Sublime Text 3](https://www.sublimetext.com/)  
 [HandBrake](https://handbrake.fr/)    
-[Arduino](https://www.arduino.cc/)
+[Arduino](https://www.arduino.cc/en/Main/Software)
 
 **Cheat Sheets**  
 [Windows Command Prompt]
