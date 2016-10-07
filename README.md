@@ -14,10 +14,10 @@ Charles Veasey
 charles.veasey@iaia.edu  
 
 **Syllabus**   
-https://goo.gl/W82YVN 
+https://goo.gl/W82YVN  
 
 **Schedule**  
-https://goo.gl/AXKamw
+https://goo.gl/AXKamw  
 
 **Software**  
 [GitHub](https://github.com/)  
@@ -56,3 +56,4 @@ https://goo.gl/AXKamw
 [09/27/2016](class/2016-09-27.md)  
 [09/29/2016](class/2016-09-29.md)  
 [10/04/2016](class/2016-10-04.md)  
+[10/06/2016](class/2016-10-06.md)  
