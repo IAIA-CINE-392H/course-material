@@ -1,0 +1,7 @@
+Move this folder to the openFrameworks "myApps" folder.  
+
+Then, use the Project Generator to build the project:  
+  1. Click the import button  
+  2. Click update  
+
+Add a video and audio file to the bin/data folder. Then update the code with the filenames.
