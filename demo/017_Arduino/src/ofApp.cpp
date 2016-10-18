@@ -2,8 +2,8 @@
 
 //--------------------------------------------------------------
 void ofApp::setup(){
-	ofBackground(0);
-	ofEnableAlphaBlending();
+    ofBackground(0);
+    ofEnableAlphaBlending();
     ofSetFrameRate(30);
     
     bSetupArduino = false;
@@ -19,7 +19,7 @@ void ofApp::setup(){
     bLight = false;
 
     // sound file
-	sound.load("01 - Suspiria.mp3", true);
+    sound.load("01 - Suspiria.mp3", true);
     sound.setLoop(true);
     sound.play();
 
@@ -34,8 +34,8 @@ void ofApp::setupArduino() {
     cout << "arduino is ready" << endl;
 
 	// set up arduino pins
-	arduino.sendDigitalPinMode(13, ARD_OUTPUT);    // led light
-	arduino.sendAnalogPinReporting(0, ARD_ANALOG); // potentiometer
+    arduino.sendDigitalPinMode(13, ARD_OUTPUT);    // led light
+    arduino.sendAnalogPinReporting(0, ARD_ANALOG); // potentiometer
     
     // arduino is now setup
     bSetupArduino = true;
