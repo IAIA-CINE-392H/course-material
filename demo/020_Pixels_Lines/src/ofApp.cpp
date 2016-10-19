@@ -14,6 +14,11 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
+
+	if (video.isPlaying() == false){
+		return;
+	}
+
 	// get video frame's pixel container
 	pixels = video.getPixels();	
 	
