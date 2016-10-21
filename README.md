@@ -24,7 +24,7 @@ https://goo.gl/AXKamw
 [GitHub Desktop](https://desktop.github.com/)  
 [Vistual Studio Community 2015 (Windows)](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx)  
 [Xcode (Mac)](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)  
-[Sublime Text 3](https://www.sublimetext.com/)  
+[Sublime Text](https://www.sublimetext.com/)  
 [openFrameWorks](http://openframeworks.cc/)  
 [HandBrake](https://handbrake.fr/)  
 [Arduino](https://www.arduino.cc/en/Main/Software)  
