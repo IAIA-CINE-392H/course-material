@@ -56,7 +56,7 @@ void ofApp::update(){
 			}
 		}
 
-		// print brightness pixel's color value
+		// print brightest pixel's color value
 		cout << maxBrightness << endl;
 
 	}
