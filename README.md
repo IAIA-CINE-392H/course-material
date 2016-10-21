@@ -52,7 +52,7 @@ https://goo.gl/AXKamw
 [09/08/2016](class/2016-09-08.md) openFrameworks: Image, Graphics, Layout  
 [09/13/2016](class/2016-09-13.md) openFrameworks: Video  
 [09/15/2016](class/2016-09-15.md) openFrameworks: Video Camera  
-[09/20/2016](class/2016-09-20.md) openFrameworks: Audio  
+[09/20/2016](class/2016-09-20.md) openFrameworks: Audio
 [09/22/2016](class/2016-09-22.md) openFrameworks: 3D Graphics and Models  
 [09/27/2016](class/2016-09-27.md) Arduino: Circuit 1  
 [09/29/2016](class/2016-09-29.md) Arduino: Circuits 2-4  
