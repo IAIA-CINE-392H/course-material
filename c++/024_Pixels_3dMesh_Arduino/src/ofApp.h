@@ -19,7 +19,7 @@ class ofApp : public ofBaseApp{
 		ofEasyCam camera;
 		ofPlanePrimitive plane;
 
-		float extrude; // 3d mesh extrusion amount
+		float extrude; 		// 3d mesh extrusion amount
 
 		void setup();
 		void update();
