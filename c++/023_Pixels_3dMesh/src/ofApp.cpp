@@ -14,7 +14,7 @@ void ofApp::setup(){
 	video.setup(w, h);
 
 	// configure plane mesh
-	plane.set(w, h);			// plane dimensions (width and height)
+	plane.set(w, h);		// plane dimensions (width and height)
 	plane.setResolution(w, h);	// vertex count (columns and rows)
 
 	// add a color to each vertex
