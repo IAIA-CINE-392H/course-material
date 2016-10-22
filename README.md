@@ -43,7 +43,7 @@ https://goo.gl/AXKamw
 [Typing Instructor Platinum (Windows)](https://www.amazon.com/Individual-Software-8037781-Instructor-Platinum/dp/B001UHMVKO)  
 
 **Class**  
-[08/16/2016](class/2016-08-16.md) GitHub   
+[08/16/2016](class/2016-08-16.md) Introduction   
 [08/18/2016](class/2016-08-18.md) C++ Programming: Hello World  
 [08/23/2016](class/2016-08-23.md) C++ Programming: Variables and Loops   
 [08/25/2016](class/2016-08-25.md) C++ Programming: Operators and Functions  
