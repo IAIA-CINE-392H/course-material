@@ -19,10 +19,10 @@ void ofApp::draw(){
 	ofBackground(0, 0, 0);
 	
 	// relative positioning
-	int h = ofGetHeight();								 // set to window height
-	int w = image.getWidth() * h / image.getHeight();	 // maintain image proportion
-	int x = ofGetWidth() * 0.5 - w * 0.5;				 // center image horizontally
-	int y = ofGetHeight() * 0.5 - h * 0.5;				 // center image vertically
+	int h = ofGetHeight();						// set to window height
+	int w = image.getWidth() * h / image.getHeight();	 	// maintain image proportion
+	int x = ofGetWidth() * 0.5 - w * 0.5;				// center image horizontally
+	int y = ofGetHeight() * 0.5 - h * 0.5;				// center image vertically
 	image.draw(x, y, w, h);
 
 	// absolute positioning
