@@ -57,7 +57,7 @@ https://goo.gl/AXKamw
 [09/22/2016](class/2016-09-22.md) openFrameworks: 3D Graphics  
 [09/27/2016](class/2016-09-27.md) Arduino: Circuit 1  
 [09/29/2016](class/2016-09-29.md) Arduino: Circuits 2-4  
-[10/04/2016](class/2016-10-04.md) Arduino: Circuits 5-7  
+[10/04/2016](class/2016-10-04.md) Arduino: Circuits 5-6  
 [10/06/2016](class/2016-10-06.md) Arduino: Circuits 7-9  
 [10/11/2016](class/2016-10-11.md) Arduino: Circuits 10-12  
 [10/13/2016](class/2016-10-13.md) Arduino: openFrameworks  
