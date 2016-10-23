@@ -60,6 +60,6 @@ https://goo.gl/AXKamw
 [10/04/2016](class/2016-10-04.md) Arduino: Circuits 5-6  
 [10/06/2016](class/2016-10-06.md) Arduino: Circuits 7-9  
 [10/11/2016](class/2016-10-11.md) Arduino: Circuits 10-11  
-[10/13/2016](class/2016-10-13.md) Arduino: Circuit 12, openFrameworks 
+[10/13/2016](class/2016-10-13.md) Arduino: Circuit 12, openFrameworks  
 [10/18/2016](class/2016-10-18.md) openFrameworks: Pixels and Textures  
 [10/20/2016](class/2016-10-20.md) openFrameworks: Pixels, 3D Mesh, Arduino  
