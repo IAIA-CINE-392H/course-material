@@ -63,3 +63,4 @@ https://goo.gl/AXKamw
 [10/13/2016](class/2016-10-13.md) Arduino: openFrameworks, Circuit 12   
 [10/18/2016](class/2016-10-18.md) openFrameworks: Pixels and Textures  
 [10/20/2016](class/2016-10-20.md) openFrameworks: Pixels, 3D Mesh, Arduino  
+[10/20/2016](class/2016-10-25.md) openFrameworks: OpenGL and Shaders  
