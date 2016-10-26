@@ -15,8 +15,8 @@ void ofApp::setup() {
     
 	// set up sphere
 	plane.set(1024, 768);
-	sphere.mapTexCoordsFromTexture(image.getTexture());
-	sphere.getTexCoords().normalize();
+	plane.mapTexCoordsFromTexture(image.getTexture());
+	plane.getTexCoords().normalize();
 
     // update texture from pixels
     texture = image.getTexture();
@@ -43,6 +43,9 @@ void ofApp::update() {
 //--------------------------------------------------------------
 void ofApp::draw() {
 	ofSetColor(255);
+
+	// disable depth test
+	ofEnableDepthTest();
 
 	// begin 3D camera
 	camera.begin();
