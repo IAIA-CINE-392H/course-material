@@ -39,9 +39,9 @@ void ofApp::updateArduino(){
 	}
 	arduino.update();
 
-	int potValue = arduino.getAnalog(0);
-	cout << ofToString(potValue) << endl;
+	//int potValue = arduino.getAnalog(0);
+	//cout << ofToString(potValue) << endl;
 
-	int button = arduino.getDigital(8);
+	//int button = arduino.getDigital(8);
 	//cout << ofToString(button) << endl;	
 }
