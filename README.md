@@ -64,4 +64,5 @@ https://goo.gl/AXKamw
 [10/18/2016](class/2016-10-18.md) openFrameworks: Pixels and Textures  
 [10/20/2016](class/2016-10-20.md) openFrameworks: Pixels, 3D Mesh, Arduino  
 [10/25/2016](class/2016-10-25.md) openFrameworks: OpenGL and Shaders  
-[10/27/2016](class/2016-10-27.md) openFrameworks: Shaders 
+[10/27/2016](class/2016-10-27.md) openFrameworks: Shaders  
+[11/01/2016](class/2016-11-01.md) C++ Programming: Reference and Pointers
