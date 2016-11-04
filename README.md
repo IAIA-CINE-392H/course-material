@@ -66,3 +66,4 @@ https://goo.gl/AXKamw
 [10/25/2016](class/2016-10-25.md) openFrameworks: OpenGL and Shaders  
 [10/27/2016](class/2016-10-27.md) openFrameworks: Shaders  
 [11/01/2016](class/2016-11-01.md) C++ Programming: Reference and Pointers
+[11/03/2016](class/2016-11-03.md) C++ Programming: Vectors, Maps, Threads
