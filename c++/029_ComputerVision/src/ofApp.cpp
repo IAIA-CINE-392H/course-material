@@ -17,7 +17,7 @@ void ofApp::setup() {
 	gui.setPosition(700, 0);
     gui.add(resetBackground.set("Reset Background", false));
     gui.add(learningTime.set("Background Learning Time", 50, 0, 200));
-    gui.add(thresholdValue.set("Badkground Threshold Value", 30, 0, 255));
+    gui.add(thresholdValue.set("Background Threshold Value", 30, 0, 255));
 	gui.add(erodeValue.set("Erode", 1, 0, 10));
 	gui.add(dilateValue.set("Dilate", 1, 0, 10));
 	gui.add(minArea.set("Countour Min area", 10, 1, 100));
@@ -53,7 +53,7 @@ void ofApp::update() {
 		diffMean *= Scalar(50); // arbituary scale number
 
 		// clean up filters for binary images
-		erode(thresholded, int(erodeValue));  // clean up noise
+		erode(thresholded, int(erodeValue));   // clean up noise
 		dilate(thresholded, int(dilateValue)); // fill in holes
 
 		// update threshold for drawing purposes
