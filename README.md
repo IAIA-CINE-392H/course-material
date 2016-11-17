@@ -68,4 +68,5 @@ https://goo.gl/AXKamw
 [11/01/2016](class/2016-11-01.md) C++ Programming: Reference and Pointers  
 [11/03/2016](class/2016-11-03.md) C++ Programming: Vectors, Maps, Threads  
 [11/08/2016](class/2016-11-08.md) openFrameworks: Computer Vision and OpenCV  
-[11/10/2016](class/2016-11-10.md) openFrameworks: OpenCV, Kinect, LEAP Motion
+[11/10/2016](class/2016-11-10.md) openFrameworks: OpenCV, Kinect, LEAP Motion  
+[11/15/2016](class/2016-11-15.md) openFrameworks: Sound Synthesis and Analysis
