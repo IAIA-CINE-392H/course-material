@@ -1,2 +1,0 @@
-ofxGpuParticles
-ofxOsc
